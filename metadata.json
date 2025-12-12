@@ -1,0 +1,5 @@
+{
+  "name": "N8n-Supabase Integrator",
+  "description": "A developer dashboard to generate n8n workflows and view production-ready TypeScript integration scripts for Supabase and Next.js.",
+  "requestFramePermissions": []
+}
